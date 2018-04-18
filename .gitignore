@@ -8,3 +8,8 @@ nRF24_multipro/Visual Micro
 .user
 .vcxproj
 .filters
+*.suo
+/nRF24_multipro/__vm
+/nRF24_multipro/nRF24_multipro.vcxproj.user
+/nRF24_multipro/nRF24_multipro.vcxproj.filters
+/nRF24_multipro/nRF24_multipro.vcxproj
