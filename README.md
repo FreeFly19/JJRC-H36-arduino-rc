@@ -24,9 +24,13 @@ In order to use this code, you will need an Arduino, nrF24L01+ wireless cards, t
 | 11             | N/A                            | Resistor & green LED  |
 
 
-## Drones supported
+## Drones
 
-To change the drone selected, edit the selectProtocol() method in nRF24_multipro.ino and replace PROTO_E010 with the drone enum, found at the top of the file, of your choice;
+### Change drone support in code
+
+To change the drone selected by the code, edit the selectProtocol() method in nRF24_multipro.ino and replace PROTO_E010 with the drone  of your choice - the enum is defined at the top of the file.
+
+### Supported drones
 
 	- WLToys V2x2, JXD JD38x, JD39x, JJRC H6C, Yizhan Tarantula X6
 	- EAchine CG023, CG032, 3D X4
