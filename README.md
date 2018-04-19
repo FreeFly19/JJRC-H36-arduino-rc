@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a fork of [perrytsao/nrf24_cx10_pc](https://github.com/perrytsao/nrf24_cx10_pc). This code has been updated with the latest code from [goebish/nrf24_multipro](https://github.com/goebish/nrf24_multipro). This updates the code with additional drone support.
+This is a fork of [perrytsao/nrf24_cx10_pc](https://github.com/perrytsao/nrf24_cx10_pc). This code has been updated with the latest drone support from [goebish/nrf24_multipro](https://github.com/goebish/nrf24_multipro). 
 
 [goebish/nrf24_multipro](https://github.com/goebish/nrf24_multipro) was modified by [perrytsao/nrf24_cx10_pc](https://github.com/perrytsao/nrf24_cx10_pc) to allow input to control a drone through a serial port instead of PPM signals from a transmitter. This code will always select the JJRC H36 mini protocol for operation, but the code for using other drones is still intact so it should be easy to modify for those who are interested.  
 
