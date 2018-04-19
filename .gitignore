@@ -4,10 +4,7 @@
 nRF24_multipro/Debug
 nRF24_multipro/Release
 nRF24_multipro/Visual Micro
-*.sln
 .user
-.vcxproj
-.filters
 *.suo
 /nRF24_multipro/__vm
 /nRF24_multipro/nRF24_multipro.vcxproj.user
