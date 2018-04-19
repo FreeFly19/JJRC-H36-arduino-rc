@@ -1,6 +1,6 @@
 # nrf24_JJRC_H36_pc
 
-This branch includes the files for Visual Studio 2015 in conjunction with the excellent [Visual Micro](http://www.visualmicro.com/) - the fully compatible Arduino programming tool for Microsoft Visual Studio. 
+This branch includes the files for Visual Studio 2015+ in conjunction with the excellent [Visual Micro](http://www.visualmicro.com/) - the fully compatible Arduino programming tool for Microsoft Visual Studio. 
 
 ## Overview
 
