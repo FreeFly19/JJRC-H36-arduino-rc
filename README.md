@@ -60,6 +60,6 @@ The python script serial_test.py can be used to test the connection, although it
 
 ## Additional comments
 
-This code was originally developed by [https://github.com/perrytsao/nrf24_cx10_pc](https://github.com/perrytsao/nrf24_cx10_pc) as part of the [Teach your PC to Fly a Mini-Drone](http://www.makehardware.com/2016/04/24/teach-your-pc-to-fly-a-mini-drone/) project on [MakeHardware.com](www.makehardware.com).
+This code was originally developed by [perrytsao/nrf24_cx10_pc](https://github.com/perrytsao/nrf24_cx10_pc) as part of the [Teach your PC to Fly a Mini-Drone](http://www.makehardware.com/2016/04/24/teach-your-pc-to-fly-a-mini-drone/) project on [MakeHardware.com](www.makehardware.com).
 
 
