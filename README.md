@@ -8,7 +8,7 @@ This is a fork of [perrytsao/nrf24_cx10_pc](https://github.com/perrytsao/nrf24_c
 
 ## Usage
 
-In order to use this code, you will need an Arduino, nrF24L01+ wireless cards, two resistors, one green & one red LED and a JJRC H36 mini drone. This webpage has a [list of hardware needed](http://www.makehardware.com/2016/04/24/teach-your-pc-to-fly-a-mini-drone/). The Arduino and the wireless cards should be wired following this table:
+In order to use this code, you will need an Arduino, nrF24L01+ wireless cards, two resistors, one green, one red LED and a JJRC H36 mini drone. This webpage has a [list of hardware needed](http://www.makehardware.com/2016/04/24/teach-your-pc-to-fly-a-mini-drone/). The Arduino and the wireless cards should be wired following this table:
 
 | Arduino Uno    | NRF24L01+ Socket Adapter Board | Wire Color            |
 |----------------|--------------------------------|-----------------------|
