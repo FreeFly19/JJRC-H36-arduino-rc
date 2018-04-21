@@ -43,8 +43,5 @@
     <ClInclude Include="frsky_telemetry.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="__vm\.vs_files.vsarduino.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
