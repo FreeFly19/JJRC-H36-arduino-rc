@@ -1,5 +1,7 @@
 # nrf24_JJRC_H36_pc
 
+This branch includes the files for Microsoft Visual Studio 2015+ to be used in conjunction with the excellent [Visual Micro](http://www.visualmicro.com/) - the fully compatible Arduino programming tool for Microsoft Visual Studio. 
+
 ## Overview
 
 This is a fork of [perrytsao/nrf24_cx10_pc](https://github.com/perrytsao/nrf24_cx10_pc). This code has been updated with the latest drone support from [goebish/nrf24_multipro](https://github.com/goebish/nrf24_multipro). 
