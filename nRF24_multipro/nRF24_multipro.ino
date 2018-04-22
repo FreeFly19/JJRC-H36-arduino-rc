@@ -1,5 +1,17 @@
 /*
  ******************************************************************************
+ 
+ This is a fork of the Multi-Protocol nRF24L01 Tx project
+ from  perrytsao  on Github https://github.com/perrytsao/nrf24_cx10_pc
+ 
+ The purpose of this code is to enable control over the JJRC H36 Mini
+ drone via code running on a PC. 
+ 
+ Lewis Cornick 22 April 2018
+ githubLewis on github.com
+ 
+ ******************************************************************************
+ 
  This is a fork of the Multi-Protocol nRF24L01 Tx project
  from goebish on RCgroups / github
  This version accepts serial port strings and converts
